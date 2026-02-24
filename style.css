@@ -17,6 +17,7 @@
     --ld-hover: light-dark(var(--warm-secondary), var(--neon-orange));
     --ld-project: light-dark(var(--white), var(--gray));
     --ld-skills: light-dark(var(--warm-main), var(--neon-orange));
+    --text-hover: light-dark(var(--white), var(--black));
 }
 
 html {
@@ -73,7 +74,8 @@ p {
 }
 
 a {
-    color: var(--ld-h2);
+    color: var(--text-hover);
+    text-decoration: none;
 }
 
 a:hover {
