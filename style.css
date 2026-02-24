@@ -14,7 +14,7 @@
     --ld-bkgd: light-dark(var(--off-white), var(--black));
     --ld-text: light-dark(var(--deep-color), var(--white));
     --ld-h2: light-dark(var(--warm-main), var(--neon-green));
-    --ld-hover: light-dark(var(--warm-secondary), var(--neon-orange));
+    --ld-hover: light-dark(var(--warm-secondary), var(--neon-green));
     --ld-project: light-dark(var(--white), var(--gray));
     --ld-skills: light-dark(var(--warm-main), var(--neon-orange));
     --text-hover: light-dark(var(--white), var(--black));
