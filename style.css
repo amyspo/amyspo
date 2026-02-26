@@ -1,21 +1,22 @@
 :root {
-    --white: #ffffff;
-    --off-white: #fff8f0;
-    --warm-main: #90A955;
-    --warm-secondary: #ffb87a;
+    --white: #FFFFFF;
+    --clr-off-white-500: #E8DFD6;
+    --off-white: #F6F1EB;
+    --warm-main: #676f58;
+    --warm-secondary: #C97C5D;
     --deep-color: #402E2A;
     --black: #000000;
     --neon-green: #A4FF5F;
     --neon-orange: #f39121;
     --gray: #262626;
-    --corners: 24px 0;
-    --corners-small: 10px 0;
+    --corners: 24px;
+    --corners-small: 10px;
     --base-font-size: 1rem;
     --ld-bkgd: light-dark(var(--off-white), var(--black));
     --ld-text: light-dark(var(--deep-color), var(--white));
     --ld-h2: light-dark(var(--warm-main), var(--neon-green));
-    --ld-hover: light-dark(var(--warm-secondary), var(--neon-green));
-    --ld-project: light-dark(var(--white), var(--gray));
+    --ld-hover: light-dark(var(--deep-color), var(--white));
+    --ld-project: light-dark(var(--clr-off-white-500), var(--gray));
     --ld-skills: light-dark(var(--warm-main), var(--neon-orange));
     --text-hover: light-dark(var(--white), var(--black));
 }
