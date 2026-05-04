@@ -1,4 +1,8 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: I love videogames, cats and books. ♥
+- ⚡ About me: I love videogames, cats and books. ♥
+
+## My Skills
+
+HTML, CSS, JavaScript
